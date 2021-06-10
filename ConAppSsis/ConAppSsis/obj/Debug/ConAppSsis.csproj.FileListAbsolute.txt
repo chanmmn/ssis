@@ -1,0 +1,13 @@
+C:\test\other\ConAppSsis\ConAppSsis\bin\Debug\ConAppSsis.exe.config
+C:\test\other\ConAppSsis\ConAppSsis\bin\Debug\ConAppSsis.exe
+C:\test\other\ConAppSsis\ConAppSsis\bin\Debug\ConAppSsis.pdb
+C:\test\other\ConAppSsis\ConAppSsis\bin\Debug\Microsoft.SQLServer.ManagedDTS.dll
+C:\test\other\ConAppSsis\ConAppSsis\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\test\other\ConAppSsis\ConAppSsis\bin\Debug\Microsoft.SqlServer.DTSRuntimeWrap.dll
+C:\test\other\ConAppSsis\ConAppSsis\bin\Debug\Microsoft.SqlServer.PipelineHost.dll
+C:\test\other\ConAppSsis\ConAppSsis\bin\Debug\Microsoft.SqlServer.DTSPipelineWrap.dll
+C:\test\other\ConAppSsis\ConAppSsis\obj\Debug\ConAppSsis.csproj.AssemblyReference.cache
+C:\test\other\ConAppSsis\ConAppSsis\obj\Debug\ConAppSsis.csproj.CoreCompileInputs.cache
+C:\test\other\ConAppSsis\ConAppSsis\obj\Debug\ConAppSsis.csproj.CopyComplete
+C:\test\other\ConAppSsis\ConAppSsis\obj\Debug\ConAppSsis.exe
+C:\test\other\ConAppSsis\ConAppSsis\obj\Debug\ConAppSsis.pdb
