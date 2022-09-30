@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SSISErrorCode", "SSISErrorCode\SSISErrorCode.dtproj", "{8275E89F-4D7D-4DA8-B47B-CD73D4BCEA30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8275E89F-4D7D-4DA8-B47B-CD73D4BCEA30}.Development|Default.ActiveCfg = Development
+		{8275E89F-4D7D-4DA8-B47B-CD73D4BCEA30}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {917AAB63-CE3A-4FA0-BB3A-A4F599CF7C8C}
+	EndGlobalSection
+EndGlobal
