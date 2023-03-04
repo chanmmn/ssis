@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "ssisTempTable", "ssisTempTable\ssisTempTable.dtproj", "{4F283FA2-BD7C-464A-8327-44F57F2C9D02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Azure|Default = Azure|Default
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F283FA2-BD7C-464A-8327-44F57F2C9D02}.Azure|Default.ActiveCfg = Azure
+		{4F283FA2-BD7C-464A-8327-44F57F2C9D02}.Azure|Default.Build.0 = Azure
+		{4F283FA2-BD7C-464A-8327-44F57F2C9D02}.Development|Default.ActiveCfg = Development
+		{4F283FA2-BD7C-464A-8327-44F57F2C9D02}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4170A326-7232-400E-94A2-7C73176014ED}
+	EndGlobalSection
+EndGlobal
