@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "SSISTextFileNameVar", "SSISTextFileNameVar\SSISTextFileNameVar.dtproj", "{E13CEDDD-DEFF-4D5D-BCF1-DE7DE2F3D08C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E13CEDDD-DEFF-4D5D-BCF1-DE7DE2F3D08C}.Development|Default.ActiveCfg = Development
+		{E13CEDDD-DEFF-4D5D-BCF1-DE7DE2F3D08C}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE7C9B49-FF07-4BB7-8377-18F2AB41D201}
+	EndGlobalSection
+EndGlobal
